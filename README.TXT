@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is the program for Midtrans Software Engineering Intern Examination. Each Class consists the answer of one problem, of which problem number can be seen in the description inside.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
+PROJECT TITLE: Midtrans On-Site Test
+PURPOSE OF PROJECT: Examination/Test
 VERSION or DATE:
 HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+AUTHORS: Aulya 
+USER INSTRUCTIONS: Run the main method in each classes
